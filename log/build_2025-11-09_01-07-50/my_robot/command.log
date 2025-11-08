@@ -1,6 +1,0 @@
-Invoking command in '/home/tuwi/dev_lts/build/my_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/tuwi/dev_lts/src/my_robot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tuwi/dev_lts/install/my_robot
-Invoked command in '/home/tuwi/dev_lts/build/my_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/tuwi/dev_lts/src/my_robot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tuwi/dev_lts/install/my_robot
-Invoking command in '/home/tuwi/dev_lts/build/my_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/tuwi/dev_lts/build/my_robot -- -j6 -l6
-Invoked command in '/home/tuwi/dev_lts/build/my_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/tuwi/dev_lts/build/my_robot -- -j6 -l6
-Invoking command in '/home/tuwi/dev_lts/build/my_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/tuwi/dev_lts/build/my_robot
-Invoked command in '/home/tuwi/dev_lts/build/my_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/tuwi/dev_lts/build/my_robot
